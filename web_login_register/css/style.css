@@ -1,0 +1,19 @@
+form {
+	width: 450px;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.row {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.col {
+	text-align: center;
+}
